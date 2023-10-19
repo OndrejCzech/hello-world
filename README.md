@@ -1,2 +1,4 @@
 # hello-world
-Sharing things with others.
+## About me
+- My name is Ondrej
+- I come from Czech
